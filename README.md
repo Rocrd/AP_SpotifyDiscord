@@ -2,16 +2,6 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.4.2 (26/02/2021)
-
-[View add-on themes](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Spotify-Discord/css/addons)
-
-<hr>
-
-This theme works best with the plugin called [SpotifyControls](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SpotifyControls) by DevilBro. To get it up and working, make sure your Spotify account is linked to your Discord account then download the plugin [here](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SpotifyControls) or from the plugin repo.
-
-Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Spotify-Discord/
-
 ## Previews
 
 (Previews are subject to be out of date)
@@ -56,26 +46,17 @@ To change the title bar color for specific servers, you must download the redesi
 
 &nbsp;
 
-## Changelog
-
-#### v1.4.0 (03/01/2021)
-* UI colors slightly updated to match Spotify's colors
-* User avatar and status in the bottom bar moved to the left to take up dead space
-* Chat box buttons fixed
-* New radio buttons styled
-* Other various elements fixed
-
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/changelog.md)
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
-[paypal-url]: https://paypal.me/capnkitten
+[paypal-url]: #
 
 [github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
-[github-url]: https://github.com/sponsors/CapnKitten
+[github-url]: https://github.com/Rocrd
 
 [download-logo]: https://img.shields.io/static/v1?label=Download&message=Theme&style=flat&color=blue
 [download-url]: https://betterdiscord.app/theme/Spotify%20Discord
 
 [discord-logo]: https://img.shields.io/static/v1?label=Discord&message=Server&style=flat&logo=discord&color=blue
-[discord-url]: https://discord.gg/jzJkA6Z
+[discord-url]: https://discord.gg/HZd9uHgt8W
